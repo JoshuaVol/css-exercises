@@ -8,3 +8,7 @@ div {
 .white-text {
     color: white;
 }
+
+.same-size {
+    font-size: 18px;
+}
